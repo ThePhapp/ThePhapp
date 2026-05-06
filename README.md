@@ -95,7 +95,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThePhapp&theme=tokyo-night" alt="Github Contribution graph" />
   
 </a>
-<img src="https://raw.githubusercontent.com/ThePhapp/assets/3d-contribute/game.gif" alt="My GitHub Game" />
+<img src="assets/3d-contribute/game.gif" alt="My GitHub Game" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-pacman/pacman-contribution-graph.svg">
